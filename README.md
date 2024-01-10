@@ -10,3 +10,15 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <img width="423" alt="image" src="https://github.com/aya-soghayyer/tests/assets/128791822/dd3f32fb-1084-4376-9cc0-803c576b9dde">
 
+<img width="415" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/64d834a8-3e07-48f1-bdfa-1d7d0d29ac37">
+
+<img width="415" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/32ef0500-5df0-400a-98f8-45674617fc16">
+
+<img width="254" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/bef2786e-1f20-4f56-be88-57274f0b3c83"> $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+<img width="254" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/8f107546-4b23-4f9c-ac2f-eb154b811bb1">
+
+
+
+
+
+
