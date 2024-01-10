@@ -1,0 +1,38 @@
+.on , .off{
+   
+    border-radius: 40px;
+    width: 120px;
+   
+    padding: 5px 5px;
+    margin: auto;
+
+}
+.on{
+    background-color: rgb(48, 240, 48);
+    text-align: right;
+}
+
+.off{
+    margin-top: 10px;
+    text-align: left;
+    background-color:  grey;
+}
+.on i , .off i {
+    font-size: 40px;
+    color: white;
+}
+
+.search{
+    background-color: rgb(255, 89, 0);
+    width: 30px;
+    padding: 10px 10px;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 5px;
+
+}
+.search i {
+    color: white;
+    font-size: 30px;
+}
