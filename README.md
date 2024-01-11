@@ -20,6 +20,8 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <img width="278" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/18933d84-20c2-4366-bc5d-769266c59940">$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 <img width="278" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/5c9c7ed2-bdff-4c8c-84ea-5262c26a8cfe">
 
+<img width="415" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/2faf64ff-d4a0-4741-bd10-d2d315c26f08">
+
 <img width="415" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/d85b1db4-e9bd-4616-9223-5ddf59b24fc0">
 
 
