@@ -1,0 +1,49 @@
+button{
+    width: 100%;
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.oops button{
+    background-color: rgb(239, 91, 91);
+}
+
+.success button{
+    background-color: rgb(72, 125, 200);
+}
+
+.card{
+    text-align: left;
+    width: 20%;
+    margin: auto ;
+    margin-bottom: 25px;
+    padding: 10px 55px;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    font-family:sans-serif;
+
+}
+
+.card h1 {
+    line-height: 13px;
+}
+.card p {
+    line-height: 1px;
+}
+
+.oops{
+    background-color: rgba(252, 189, 189, 0.4);
+    /* opacity: 0.7; */
+    color: rgb(247, 71, 71);
+
+}
+
+.success{
+    background-color: rgba(220, 236, 246, 0.795);
+    color: rgb(15, 116, 204);
+}
