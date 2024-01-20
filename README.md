@@ -27,6 +27,12 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <img width="269" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/c50f3334-fc1d-46bd-8992-f9bba08a040d">$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 <img width="269" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/e641222e-2b41-4f13-a34d-ec9f6a5b81ec">
 
+<img width="400" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/c05f6f50-efa5-422f-931f-2fe91505bd3b">
+
+<img width="400" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/17c3e29d-abf3-4087-83cb-20ffc68b0f86">
+
+
+
 
 
 
