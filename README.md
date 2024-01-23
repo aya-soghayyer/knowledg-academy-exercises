@@ -31,6 +31,9 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <img width="400" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/17c3e29d-abf3-4087-83cb-20ffc68b0f86">
 
+<img width="596" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/52ff04e2-dd1c-43d2-a2cf-83b2b1f09764">
+
+
 
 
 
