@@ -45,9 +45,16 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <img width="878" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/bc7df80a-4f22-43f9-a8d5-570e71ffbd96">
 <img width="882" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/88d51316-889c-4ac8-84ff-bbd731460a3e">
 
-### dark mode & light mode in other way:
+### dark mode & light mode in another way:
 <img width="878" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/c8bf72bc-04b0-4fa0-9d6d-1c13a72a2d87">
 <img width="877" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/f6d026a2-bdf3-4e4d-ab09-f57daa3a50c2">
+
+### show password :
+<img width="398" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/11b500a8-1567-4e19-bbc5-0159c5ea8e95">
+<img width="409" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/f859f6d0-3082-4682-a8dd-03f15d5d502d">
+
+
+
 
 
 
