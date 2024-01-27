@@ -1,0 +1,107 @@
+body{
+    background-color:#9347b1;
+    text-transform: capitalize;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.box{
+    background-color: #d7d9d2;
+    border-radius: 30px;
+    width: 70%;
+    height: 80vh;
+    margin: 40px auto;
+    text-align: center;
+}
+
+span{
+    color: #5bba24;
+}
+
+.create{
+    display: block;
+    color: #5bba24;
+    margin-top: 50px;
+}
+
+::placeholder{
+    text-transform: capitalize;
+    color: #6d7272;
+    font-weight: 300;
+    
+}
+
+input{
+    border-radius: 26px;
+    /* display: block; */
+    background-color: #c9cfcf;
+    padding: 13px;
+    margin-bottom: 30px;
+    /* margin-top: 10px; */
+    border: none;
+    width: 65%;
+
+}
+.image{
+    /* width: ; */
+    /* border-radius: 50%; */
+    /* margin: auto; */
+    /* width: 30%; */
+    /* margin-left:  %; */
+}   
+
+img{
+    border-radius: 50%;
+    width: 70%;
+    margin: auto 0px;
+}
+
+.form{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    /* margin-right: 40px; */
+    /* height: 100%; */
+    /* margin-left: %; */
+}
+
+table{
+    width: 100%;
+    height: 100%;
+}
+
+.font-awesome{
+    font-family: Helvetica, 'FontAwesome', sans-serif;
+}
+
+.login-btn{
+    width: 70%;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 50px;
+    background-color: #5bba24;
+    padding: 13px ;
+    color: aliceblue;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+tr td{
+    width: 50%;
+}
+
+p{
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+h2{
+    font-weight:600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+
+a{
+    text-decoration: none !important;
+    color: #5bba24;    
+}
+
