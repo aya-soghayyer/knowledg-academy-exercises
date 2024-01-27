@@ -1,0 +1,30 @@
+.light{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: antiquewhite
+}
+
+.darkBtn{
+    background-color: black;
+    color: antiquewhite
+}
+
+.lightBtn{
+    background-color: antiquewhite;
+    color: black;
+}
+
+button{
+text-transform: capitalize;
+border: 3px solid tan;
+border-radius: 8px;
+padding: 7px;
+width: 40%;
+cursor: pointer;
+}
+
+
