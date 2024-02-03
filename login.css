@@ -1,15 +1,15 @@
 body{
-    background-color:#9347b1;
+    background-image:linear-gradient(to right ,  #8500cd ,#b600c4);
     text-transform: capitalize;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 .box{
-    background-color: #d7d9d2;
+    background-color: #ffffff;
     border-radius: 30px;
     width: 70%;
     height: 80vh;
-    margin: 40px auto;
+    margin: 50px auto;
     text-align: center;
 }
 
@@ -25,20 +25,20 @@ span{
 
 ::placeholder{
     text-transform: capitalize;
-    color: #6d7272;
-    font-weight: 300;
+    color: #838385;
+    font-weight:500px;
 
 }
 
 input{
     border-radius: 26px;
     /* display: block; */
-    background-color: #c9cfcf;
-    padding: 13px;
+    background-color: #e5e5e5;
+    padding: 17px;
     margin-bottom: 30px;
     /* margin-top: 10px; */
     border: none;
-    width: 65%;
+    width: 68%;
 
 }
 
@@ -67,16 +67,17 @@ table{
 }
 
 .login-btn{
-    width: 70%;
+    width: 75%;
     text-transform: uppercase;
     border: none;
     border-radius: 50px;
-    background-color: #5bba24;
-    padding: 13px ;
+    background-color: #20cc44;
+    padding: 17px ;
     color: aliceblue;
     cursor: pointer;
     display: inline-block;
     margin-bottom: 15px;
+    font-weight: bold;
 }
 tr td{
     width: 50%;
@@ -88,13 +89,14 @@ p{
 }
 
 h2{
-    font-weight:600;
+    font-weight:bold;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 50px;
+    font-size: 28px;
 }
 
 a{
     text-decoration: none !important;
-    color: #5bba24;    
+    color: #20cc44;    
 }
 
