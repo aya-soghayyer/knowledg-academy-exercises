@@ -35,10 +35,9 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <img width="400" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/52ff04e2-dd1c-43d2-a2cf-83b2b1f09764">
 
-<img width="500" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/03b2fd28-c0ac-4e48-b545-7c168861b2bc">
+<img width="416" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/b68ab9f1-681a-4b82-8cb6-eff1aaaaef62">
 
-<img width="503" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/6b33ffa9-4829-4cdb-89c6-0e5538cae599">
-
+<img width="400" alt="Screenshot 2024-02-03 085814" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/19495310-2b98-44e2-9e84-46dcc104ae43">
 
 # js applications:
 ### dark mode & light mode :
