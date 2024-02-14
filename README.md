@@ -52,6 +52,10 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <img width="398" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/11b500a8-1567-4e19-bbc5-0159c5ea8e95">
 <img width="409" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/f859f6d0-3082-4682-a8dd-03f15d5d502d">
 
+### Implement a simple online shop using API in js:
+<img width="873" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/b6109a13-e5be-4808-b541-1c5252780e76">
+
+
 
 
 
