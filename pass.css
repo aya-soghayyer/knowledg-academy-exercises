@@ -1,0 +1,18 @@
+.scroll{
+    background-color: #aeb8fe;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    width: 33%;
+    scroll-behavior:smooth;
+}
+
+div.scroll img {
+    padding: 10px;
+  }
+
+  /* input[type='radio'] {
+    display: none;
+  } */
+  
+  

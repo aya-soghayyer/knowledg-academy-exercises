@@ -1,0 +1,159 @@
+body{
+    background-color: #98c1d9;
+}
+
+
+.nav {
+    text-transform: uppercase;
+    text-align: center;
+    margin: auto;
+    /* padding-bottom: 10px; */
+    padding: 25px;
+    /* background-image: linear-gradient(to left ,  #003049 , #ff8600   , #669bbc,    #003049 ); */
+    background-color: #ee6c4d;
+    border-radius: 50px;
+    border: 4px double #27187e;
+
+}
+
+.nav a {
+    text-decoration: none;
+    width: 50%;
+    font-size: 20px;
+
+}
+
+.nav .list :hover{
+    font-size: 20px;
+    color : #27187e;
+
+}
+
+.space-lia {
+    margin-left: 50px;
+}
+
+.white {
+    color: antiquewhite;
+}
+
+.pink {
+    color: antiquewhite;
+}
+
+.nav .list {
+    display: flex;
+    justify-content: center;
+    /* align-content:space-around; */
+}
+
+.products{
+    display: flex;
+    /* display: grid; */
+    place-content: center;
+    margin: 5px auto;
+    
+    justify-content: flex-start;
+    /* flex-direction: column; */
+    /* align-content: space-between; */
+    /* flex-wrap: nowrap; */
+    width: 1300px;;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* justify-items:center; */
+    /* flex-direction: column; */
+    /* justify-content:space-around ; */
+    /* border-radius: 5px; */
+    /* flex-basis: 6px; */
+
+}
+.product{
+    /* margin: auto; */
+    /* display:inline-bloc; */
+    /* display: grid; */
+    /* grid-auto-flow: column; */
+    /* justify-content: ; */
+    width: 25%;
+    height: 420px;
+    padding: 30px;
+    background-color: #f9f7f3;
+    /* height: 50px;
+    margin-right: 6px 
+    ; */
+    /* flex-direction: column; */
+    /* align-content: space-between; */
+    /* flex-wrap: nowrap; */
+    border-radius: 20px;
+    /* border: 4px solid #27187e; */
+    box-shadow:5px 5px 5px 3px  #5390d9;
+}
+
+h5{
+    font-size: 20px;
+    margin-top: 2px;
+    margin-bottom: 1px;
+    text-decoration: line-through;
+}
+h6{
+    font-size: 20px;
+    margin-top: 0px;
+    color: #f1f2f6;
+}
+
+img{
+    
+    display: block;
+    width: max-content;
+    height: 200px;
+    margin: auto;
+    border-radius: 5px;
+
+}
+
+/* .scroll{
+    /* display: inline-block; */
+    /* background-color: #aeb8fe;
+    overflow: auto;
+    white-space: wrap;
+    padding: 5px;
+    border-radius: 20px;
+    width: 100%;
+    height: 40%; */
+    /* scroll-behavior: none; } */
+ 
+
+/* div.scroll img {
+    padding: 3px;
+  } */
+
+/* input[type='radio'] {
+    display: none;
+  } */
+
+
+  @import "https://unpkg.com/open-props";
+  @import "https://unpkg.com/open-props/normalize.min.css";
+  
+  .scrollport {
+    -webkit-mask-image: linear-gradient(to right, #0000, #000, #000, #0000);
+    
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    
+    display: flex;
+    gap: var(--size-10);
+    align-items: start;
+    padding: var(--size-10);
+  }
+  
+  .scrollport > div {
+    block-size: var(--size-15);
+    aspect-ratio: var(--ratio-square);
+    background-color: var(--surface-2);
+    border-radius: var(--radius-3);
+    box-shadow: var(--shadow-4);
+  }
+  i {
+    margin-right: 40px;
+  }
+  
