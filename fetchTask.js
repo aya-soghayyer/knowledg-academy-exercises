@@ -16,14 +16,12 @@ async function getProduct() {
       <img src='${ele.images[3]}'>
       
       </div>
-   
 
-         <h2>${ele.title}</h2>
-         <p>${ele.description}</p>
+        <h2>${ele.title}</h2>
+        <p>${ele.description}</p>
         <h5>${ele.price}$</h5>
         <h6>${ele.discountPercentage}$</h6>
         
-       
     
         </div>`;
     })

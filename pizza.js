@@ -6,8 +6,7 @@
 //         return `<h3>${ele.title}</h3>
 //         <h3>${ele.body}</h3>
 //         <h4>${ele.userId}</h4>
-//         `
-    
+//     `
 //     })
 
 //     document.querySelector(".posts").innerHTML= result
@@ -24,11 +23,14 @@ async function getPizza(){
         return` <div class= "recipe" >
         <h2>${item.title}</h2> 
         <img src="${item.image_url}" alt="${item.title}">
+        <a href="pizzaDetails.html?id=${item.recipe_id   }" >details <\a>
         </div>
+        
         `
     }).join('')
 
-    document.querySelector(".recipes").innerHTML= result
+    document.querySelector(".recipes .row").innerHTML= result
+    // document.querySelector('.numberofitems').textContent= data.count
 }
 
 getPizza()
