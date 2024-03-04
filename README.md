@@ -58,6 +58,9 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### Posts via axios library 
 <img width="832" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/e0668102-7518-4ce8-b677-d7d6879611b9">
 
+### swiper application 
+![image](https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/a06be488-2c8e-4b92-aa5e-8031737485c5)
+
 
 
 
