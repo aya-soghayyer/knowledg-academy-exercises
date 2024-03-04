@@ -55,6 +55,10 @@ My work: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### Implement a simple online shop using API in js:
 <img width="873" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/b6109a13-e5be-4808-b541-1c5252780e76">
 
+### Posts via axios library 
+<img width="832" alt="image" src="https://github.com/aya-soghayyer/knowledg-academy-exercises/assets/128791822/e0668102-7518-4ce8-b677-d7d6879611b9">
+
+
 
 
 
